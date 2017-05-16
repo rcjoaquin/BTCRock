@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace BTCRock.flow
 {
-    public class Step
+    public abstract class Step
     {
+        public abstract Step run();
+
     }
 }

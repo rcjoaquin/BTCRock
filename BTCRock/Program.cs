@@ -10,6 +10,8 @@ namespace BTCRock
     {
         static void Main(string[] args)
         {
+            //Convirtiendolo a CSHARP con tiempo y ganas...
+            //https://github.com/gotoalberto/bitcoin-rock/blob/develop/src/main/java/com/gotoalberto/bitcoinrock/flow/WelcomeStep.java
         }
     }
 }
